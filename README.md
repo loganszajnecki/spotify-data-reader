@@ -10,3 +10,6 @@ just takes some time:
 https://support.spotify.com/de-en/article/data-rights-and-privacy-settings/
 
 See the link under "Can I download a copy of my personal data?"
+
+Just run main.py and you will obtain info about your play history
+(requires Matplotlib!)
